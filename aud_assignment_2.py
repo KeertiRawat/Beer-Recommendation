@@ -8,12 +8,6 @@ Original file is located at
 
 # Building a Crowdsourced Beer Recommender System  
 
-- MEMBERS: Abhiroop Kumar, Alina Hota, Manoranjith Anandan, Simoni K Dalal, Rohan K David, Keerti Rawat
-- GROUP NO.: Group 8  
-- COURSE: Analytics for Unstructured Data  
-- ASSINGMENT NO.: Assingment 2  
-- DUE DATE: 26th September by 11:59 p.m.
-
 ## Executive Summary
 
 We developed a beer recommender system that leverages customer reviews to connect user-specified attributes (e.g., *black, thick, bourbon*) with beers that drinkers actually describe in those terms. By moving from simple bag-of-words and sentiment models to domain-trained embeddings, the system learns beer-specific language and produces recommendations that align closely with real consumer perceptions. The approach ensures interpretability, avoids popularity bias, and demonstrates how natural language can drive personalized, transparent recommendations.
